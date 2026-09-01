@@ -1,2 +1,3 @@
-Nama: Fridol
-Umur: -
+Nama: Juan
+Prodi: Informatika
+Hobi : main gitar dan berenang
